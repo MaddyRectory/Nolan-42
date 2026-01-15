@@ -1,0 +1,3 @@
+ARG
+
+FROM scratch
